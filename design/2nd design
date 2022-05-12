@@ -26,13 +26,14 @@
 
 [ 도메인 설계 ]
 
-![img1.daumcdn.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a21eff8e-dd8c-42cb-8a02-40caedd7ee5f/img1.daumcdn.png)
+![img1.daumcdn.png](https://www.notion.so/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa21eff8e-dd8c-42cb-8a02-40caedd7ee5f%2Fimg1.daumcdn.png?table=block&id=12fcf8d4-7533-4fb7-a836-04c0b09552a5&spaceId=fc6740d4-6ab9-45ac-87aa-3d1654e51b72&name=img1.daumcdn.png&userId=91b7a15a-5c65-438c-b272-bead3dcdc0ae&cache=v2)
 
 1. Application Layer: 주로 도메인과 Repository를 바탕으로 실제 서비스(API)를 제공하는 계층
 2. Domain Layer: Entity, VO(Value Object)를 활용하여 도메인 로직이 진행되는 계층
 3. Infrastructure Layer: 쉽게 말하면 외부와의 통신(ORM, DB, NoSql)을 담당하는 계층
 
-[[기타] DDD(domain driven development)의 계층 구조(layered architecture)에 대해서 알아보자](https://sabarada.tistory.com/159)
+3Layer 설계 참고
+https://sabarada.tistory.com/159
 
 [ Aggregate ]
 
