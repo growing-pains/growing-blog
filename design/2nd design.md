@@ -26,7 +26,7 @@
 
 [ 도메인 설계 ]
 
-![img.png](img.png)
+![img1 daumcdn](https://user-images.githubusercontent.com/41177346/168591547-e490a09d-52cb-4cd0-afb6-432c0b4ee77d.png)
 
 1. Application Layer: 주로 도메인과 Repository를 바탕으로 실제 서비스(API)를 제공하는 계층
 2. Domain Layer: Entity, VO(Value Object)를 활용하여 도메인 로직이 진행되는 계층
