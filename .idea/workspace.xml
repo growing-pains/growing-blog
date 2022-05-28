@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5212e81a-06ad-4392-b533-6e6d24c7a5f0" name="Changes" comment="fix : BlogPost 엔티티 NoArgsConstructor 추가" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/develop" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29FEfRLyOLC8fudl31ZxTycxbcd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;5d5d5cb6a86caaad3a1942d6e7eb6dbb&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="growingblog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="growingblog" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrowingblogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="growingblog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.growingblog.GrowingblogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5212e81a-06ad-4392-b533-6e6d24c7a5f0" name="Changes" comment="" />
+      <created>1652700539274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652700539274</updated>
+      <workItem from="1652700549881" duration="6010000" />
+      <workItem from="1652796016954" duration="1719000" />
+      <workItem from="1652884825166" duration="19000" />
+      <workItem from="1653058411409" duration="4959000" />
+      <workItem from="1653098162235" duration="594000" />
+      <workItem from="1653224676123" duration="828000" />
+      <workItem from="1653316537283" duration="20000" />
+      <workItem from="1653492924575" duration="697000" />
+      <workItem from="1653695468962" duration="1869000" />
+    </task>
+    <task id="LOCAL-00001" summary="docs : 2차 설계 파일 .md 확장자 추가">
+      <created>1652700891031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652700891031</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs : 2차 설계 파일 .md 확장자 추가">
+      <created>1652701145156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652701145156</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs : growing-blog 설명 및 설계">
+      <created>1652797331834</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652797331834</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat : Mavent 설정 추가">
+      <created>1653068026160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653068026160</updated>
+    </task>
+    <task id="LOCAL-00005" summary="docs : 게시글 도메인 모델 작성">
+      <created>1653068105707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653068105707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat : JPA, Lombok 추가 설정">
+      <created>1653068136988</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653068136988</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat : BlogPost(게시글) 엔티티 작성">
+      <created>1653068268170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653068268170</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix : BlogPost 엔티티 NoArgsConstructor 추가">
+      <created>1653493490697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653493490697</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs : 2차 설계 파일 .md 확장자 추가" />
+    <MESSAGE value="docs : growing-blog 설명 및 설계" />
+    <MESSAGE value="feat : Mavent 설정 추가" />
+    <MESSAGE value="docs : 게시글 도메인 모델 작성" />
+    <MESSAGE value="feat : JPA, Lombok 추가 설정" />
+    <MESSAGE value="feat : BlogPost(게시글) 엔티티 작성" />
+    <MESSAGE value="fix : BlogPost 엔티티 NoArgsConstructor 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix : BlogPost 엔티티 NoArgsConstructor 추가" />
+  </component>
+</project>
